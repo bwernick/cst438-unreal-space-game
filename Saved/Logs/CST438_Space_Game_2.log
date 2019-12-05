@@ -1276,3 +1276,30 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.05-07.10.10:655][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Earth/Earth_MAT" FILE="C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Content/Earth/Earth_MAT.uasset" SILENT=true
 [2019.12.05-07.10.10:710][739]LogSavePackage: Moving 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Saved/Earth_MAT35F3DC0B497999B9E57C558E886A643F.tmp' to 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Content/Earth/Earth_MAT.uasset'
 [2019.12.05-07.10.13:050][943]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-07.10.36:375][185]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={4F0343CF-4901-BFF0-EC4A-26A5135AD1F8}
+[2019.12.05-07.11.31:288][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.12.05-07.11.33:635][ 15]LogSlate: Window 'Save Content' being destroyed
+[2019.12.05-07.11.33:776][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Earth/2_no_clouds_8k" FILE="C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Content/Earth/2_no_clouds_8k.uasset" SILENT=true
+[2019.12.05-07.11.36:544][ 15]LogSavePackage: Moving 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Saved/2_no_clouds_8k624D3CD64E64D8EF7A9E018B5065214B.tmp' to 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Content/Earth/2_no_clouds_8k.uasset'
+[2019.12.05-07.11.39:778][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Earth/5_night_8k" FILE="C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Content/Earth/5_night_8k.uasset" SILENT=true
+[2019.12.05-07.11.41:629][ 15]LogSavePackage: Moving 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Saved/5_night_8k16CE52F74F7F9E856A8B379DC038D49A.tmp' to 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Content/Earth/5_night_8k.uasset'
+[2019.12.05-07.11.43:033][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Earth/cities_8k" FILE="C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Content/Earth/cities_8k.uasset" SILENT=true
+[2019.12.05-07.11.43:319][ 15]LogSavePackage: Moving 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Saved/cities_8k09DC7D8F47AF3ADE011F499070F05A02.tmp' to 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Content/Earth/cities_8k.uasset'
+[2019.12.05-07.11.43:648][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Earth/fair_clouds_8k" FILE="C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Content/Earth/fair_clouds_8k.uasset" SILENT=true
+[2019.12.05-07.11.44:979][ 15]LogSavePackage: Moving 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Saved/fair_clouds_8kDA1C597547D424328C39FC9399EFE0E4.tmp' to 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Content/Earth/fair_clouds_8k.uasset'
+[2019.12.05-07.11.46:561][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Earth/water_8k" FILE="C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Content/Earth/water_8k.uasset" SILENT=true
+[2019.12.05-07.11.46:916][ 15]LogSavePackage: Moving 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Saved/water_8k0F1AFF6440942421B25F3FA5EAFC2306.tmp' to 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Content/Earth/water_8k.uasset'
+[2019.12.05-07.11.47:326][ 15]Cmd: MAP LOAD FILE="C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Content/Maps/OpenSpaceMap/Charlie_persistent.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.05-07.11.47:342][ 15]LightingResults: New page: Lighting Build
+[2019.12.05-07.11.47:343][ 15]LoadErrors: New page: Loading map: Charlie_persistent.umap
+[2019.12.05-07.11.47:344][ 15]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-07.11.47:357][ 15]MapCheck: New page: Map Check
+[2019.12.05-07.11.47:357][ 15]LightingResults: New page: Lighting Build
+[2019.12.05-07.11.47:391][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2019.12.05-07.11.47:426][ 15]LogAIModule: Creating AISystem for world Charlie_persistent
+[2019.12.05-07.11.47:487][ 15]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.05-07.11.47:524][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.12.05-07.11.47:561][ 15]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.05-07.11.47:561][ 15]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.129ms to complete.
+[2019.12.05-07.11.47:561][ 15]LogFileHelpers: Loading map 'Charlie_persistent' took 0.236
+[2019.12.05-07.11.47:561][ 15]LogSlate: Window 'Open Level' being destroyed
