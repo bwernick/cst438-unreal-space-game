@@ -1303,3 +1303,1080 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.05-07.11.47:561][ 15]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.129ms to complete.
 [2019.12.05-07.11.47:561][ 15]LogFileHelpers: Loading map 'Charlie_persistent' took 0.236
 [2019.12.05-07.11.47:561][ 15]LogSlate: Window 'Open Level' being destroyed
+[2019.12.05-07.12.47:608][325]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={2B482D5A-4EAA-3CAB-35D7-88A0AF489B6A}
+[2019.12.05-07.13.00:117][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.13.03:438][206]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.13.06:190][533]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.13.16:843][800]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.13.30:304][391]LogSlate: Window 'World Composition' being destroyed
+[2019.12.05-07.13.30:310][391]LogSlate: Window 'World Composition' being destroyed
+[2019.12.05-07.13.57:997][653]LogSlate: Window 'World Composition' being destroyed
+[2019.12.05-07.13.58:002][653]LogSlate: Window 'World Composition' being destroyed
+[2019.12.05-07.14.34:454][880]Cmd: DELETE
+[2019.12.05-07.14.34:454][880]Cmd: ACTOR DELETE
+[2019.12.05-07.14.34:456][880]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.05-07.14.34:456][880]LogEditorActor: Deleted Actor: LevelBounds
+[2019.12.05-07.14.34:457][880]LogEditorActor: Deleted Actor: LevelBounds
+[2019.12.05-07.14.34:457][880]LogEditorActor: Deleted Actor: LevelBounds
+[2019.12.05-07.14.34:491][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.12.05-07.14.34:491][880]LogEditorActor: Deleted 4 Actors (0.037 secs)
+[2019.12.05-07.14.47:442][422]LogEditorViewport: Clicking on Actor (LMB): Sun_blueprint_C (Sun_blueprint)
+[2019.12.05-07.14.48:876][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.14.58:191][702]LogSlate: Window 'World Composition' being destroyed
+[2019.12.05-07.14.58:196][702]LogSlate: Window 'World Composition' being destroyed
+[2019.12.05-07.15.12:377][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.12.05-07.15.12:491][344]LogSavePackage: Moving 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Saved/Charlie_persistent6BE9CC884F87C9D33389B3B972EC2FFA.tmp' to 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Content/Maps/OpenSpaceMap/Charlie_persistent.umap'
+[2019.12.05-07.15.12:712][344]LogSavePackage: Moving 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Saved/Charlie_persistent_BuiltDataF02338AE40451AC0130EE582D4EA3978.tmp' to 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Content/Maps/OpenSpaceMap/Charlie_persistent_BuiltData.uasset'
+[2019.12.05-07.15.14:357][534]LogSlate: Took 0.000354 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.05-07.15.15:536][670]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Maps/OpenSpaceMap/Sun_blueprint.Sun_blueprint
+[2019.12.05-07.15.15:895][670]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.12.05-07.15.28:392][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.15.41:169][951]LogSlate: Window 'Message' being destroyed
+[2019.12.05-07.15.42:158][951]LogSlate: Window 'Save Level As' being destroyed
+[2019.12.05-07.15.42:164][951]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-07.15.42:209][951]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.12.05-07.15.42:473][967]SourceControl: fatal: /Temp: '/Temp' is outside repository
+[2019.12.05-07.15.43:481][ 68]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star
+[2019.12.05-07.15.43:521][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.12.05-07.15.46:445][ 68]LogSlate: Window 'Save Content' being destroyed
+[2019.12.05-07.15.50:672][524]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/OpenSpaceMap/Spaceship.Spaceship
+[2019.12.05-07.15.50:709][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.12.05-07.15.52:312][524]LogSlate: Window 'Save Content' being destroyed
+[2019.12.05-07.15.52:485][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.12.05-07.15.52:502][524]LogSavePackage: Moving 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Saved/Charlie_star8E3A920E484C05B92DB1E98A7BA363EF.tmp' to 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Content/Maps/OpenSpaceMap/Charlie_star.umap'
+[2019.12.05-07.15.52:505][524]LogFileHelpers: Saving map 'Charlie_star' took 0.060
+[2019.12.05-07.15.52:543][524]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.12.05-07.15.52:559][524]LogSavePackage: Moving 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Saved/Planet_XA426389D4D77FA255ECA2B82EDAE303E.tmp' to 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Content/Maps/OpenSpaceMap/Planet_X.umap'
+[2019.12.05-07.15.52:562][524]LogFileHelpers: Saving map 'Planet_X' took 0.056
+[2019.12.05-07.15.52:598][524]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.12.05-07.15.52:613][524]LogSavePackage: Moving 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Saved/Planet_Y10C192A94AE2F9DBF70724860F905757.tmp' to 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Content/Maps/OpenSpaceMap/Planet_Y.umap'
+[2019.12.05-07.15.52:616][524]LogFileHelpers: Saving map 'Planet_Y' took 0.054
+[2019.12.05-07.15.52:655][524]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.12.05-07.15.52:664][524]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Spaceship, Actor: /Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.REINST_Spaceship_C_0
+[2019.12.05-07.15.52:866][524]LogSavePackage: Moving 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Saved/Spaceship27BC8EA944C47D69D9460191C50397E9.tmp' to 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Content/Maps/OpenSpaceMap/Spaceship.umap'
+[2019.12.05-07.15.52:869][524]LogFileHelpers: Saving map 'Spaceship' took 0.253
+[2019.12.05-07.15.52:873][524]Cmd: MAP LOAD FILE="C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Content/Maps/OpenSpaceMap/Spaceship.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.05-07.15.52:873][524]LightingResults: New page: Lighting Build
+[2019.12.05-07.15.52:873][524]LoadErrors: New page: Loading map: Spaceship.umap
+[2019.12.05-07.15.52:875][524]LogWorld: UWorld::CleanupWorld for Charlie_persistent, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-07.15.52:875][524]LogWorld: UWorld::CleanupWorld for Charlie_star, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-07.15.52:875][524]LogWorld: UWorld::CleanupWorld for Planet_X, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-07.15.52:875][524]LogWorld: UWorld::CleanupWorld for Planet_Y, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-07.15.52:875][524]LogWorld: UWorld::CleanupWorld for Spaceship, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-07.15.52:876][524]MapCheck: New page: Map Check
+[2019.12.05-07.15.52:876][524]LightingResults: New page: Lighting Build
+[2019.12.05-07.15.52:917][524]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2019.12.05-07.15.52:918][524]LogAIModule: Creating AISystem for world Spaceship
+[2019.12.05-07.15.52:983][524]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.05-07.15.53:022][524]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.12.05-07.15.53:055][524]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.05-07.15.53:055][524]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.13ms to complete.
+[2019.12.05-07.15.53:057][524]LogFileHelpers: Loading map 'Spaceship' took 0.186
+[2019.12.05-07.15.53:111][524]LogAIModule: Creating AISystem for world Charlie_star
+[2019.12.05-07.15.53:114][524]LogAIModule: Creating AISystem for world Planet_X
+[2019.12.05-07.15.53:117][524]LogAIModule: Creating AISystem for world Planet_Y
+[2019.12.05-07.15.53:156][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.12.05-07.15.54:969][733]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.16.00:780][416]LogAIModule: Creating AISystem for world Charlie_persistent
+[2019.12.05-07.16.00:784][416]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent
+[2019.12.05-07.16.00:819][416]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.12.05-07.16.00:820][416]Cmd: MAP LOAD FILE="C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Content/Maps/OpenSpaceMap/Charlie_persistent.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.05-07.16.00:820][416]LightingResults: New page: Lighting Build
+[2019.12.05-07.16.00:821][416]LoadErrors: New page: Loading map: Charlie_persistent.umap
+[2019.12.05-07.16.00:821][416]LogWorld: UWorld::CleanupWorld for Spaceship, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-07.16.00:822][416]MapCheck: New page: Map Check
+[2019.12.05-07.16.00:822][416]LightingResults: New page: Lighting Build
+[2019.12.05-07.16.00:861][416]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.12.05-07.16.00:902][416]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2019.12.05-07.16.00:942][416]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.12.05-07.16.00:979][416]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.12.05-07.16.01:018][416]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.12.05-07.16.01:106][416]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.05-07.16.01:148][416]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.12.05-07.16.01:179][416]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.05-07.16.01:179][416]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.138ms to complete.
+[2019.12.05-07.16.01:179][416]LogFileHelpers: Loading map 'Charlie_persistent' took 0.360
+[2019.12.05-07.16.48:256][994]Cmd: DELETE
+[2019.12.05-07.16.48:256][994]Cmd: ACTOR DELETE
+[2019.12.05-07.16.48:257][994]LogEditorActor: Deleted Actor: LevelBounds
+[2019.12.05-07.16.48:258][994]LogEditorActor: Deleted Actor: LevelBounds
+[2019.12.05-07.16.48:258][994]LogEditorActor: Deleted Actor: LevelBounds
+[2019.12.05-07.16.48:298][994]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.12.05-07.16.48:299][994]LogEditorActor: Deleted 3 Actors (0.043 secs)
+[2019.12.05-07.16.54:583][740]LogObjectTools: Deleting 4 worlds: /Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star, /Game/Maps/OpenSpaceMap/Planet_X.Planet_X, /Game/Maps/OpenSpaceMap/Planet_Y.Planet_Y, /Game/Maps/OpenSpaceMap/Spaceship.Spaceship
+[2019.12.05-07.16.54:583][740]LogObjectTools: Currently 8 active worlds: /Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent, /Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star, /Game/Maps/OpenSpaceMap/Planet_X.Planet_X, /Game/Maps/OpenSpaceMap/Planet_Y.Planet_Y, /Game/Maps/OpenSpaceMap/Spaceship.Spaceship, /Engine/Transient.World_0, /Engine/Transient.World_2, /Engine/Transient.World_3
+[2019.12.05-07.16.56:048][740]LogSlate: Window 'Unable to delete level' being destroyed
+[2019.12.05-07.17.00:326][119]LogSlate: Window 'Message' being destroyed
+[2019.12.05-07.17.00:402][119]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2019.12.05-07.17.00:443][119]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.12.05-07.17.00:445][119]MapCheck: New page: Map Check
+[2019.12.05-07.17.00:445][119]LightingResults: New page: Lighting Build
+[2019.12.05-07.17.00:481][119]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2019.12.05-07.17.00:601][119]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2019.12.05-07.17.00:642][119]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.12.05-07.17.00:643][119]MapCheck: New page: Map Check
+[2019.12.05-07.17.00:643][119]LightingResults: New page: Lighting Build
+[2019.12.05-07.17.00:682][119]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.12.05-07.17.00:737][119]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2019.12.05-07.17.00:780][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.12.05-07.17.00:782][119]MapCheck: New page: Map Check
+[2019.12.05-07.17.00:782][119]LightingResults: New page: Lighting Build
+[2019.12.05-07.17.00:822][119]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2019.12.05-07.17.00:876][119]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.12.05-07.17.00:921][119]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.12.05-07.17.00:922][119]MapCheck: New page: Map Check
+[2019.12.05-07.17.00:922][119]LightingResults: New page: Lighting Build
+[2019.12.05-07.17.00:963][119]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.12.05-07.17.01:003][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2019.12.05-07.17.01:006][119]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2019.12.05-07.17.01:006][119]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2019.12.05-07.17.01:007][119]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2019.12.05-07.17.01:008][119]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2019.12.05-07.17.01:009][119]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2019.12.05-07.17.01:011][119]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2019.12.05-07.17.02:885][331]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2019.12.05-07.17.06:411][749]LogAIModule: Creating AISystem for world Charlie_star
+[2019.12.05-07.17.06:414][749]LogAIModule: Creating AISystem for world Planet_X
+[2019.12.05-07.17.06:417][749]LogAIModule: Creating AISystem for world Planet_Y
+[2019.12.05-07.17.06:422][749]LogAIModule: Creating AISystem for world Spaceship
+[2019.12.05-07.17.06:423][749]LogObjectTools: Deleting 4 worlds: /Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star, /Game/Maps/OpenSpaceMap/Planet_X.Planet_X, /Game/Maps/OpenSpaceMap/Planet_Y.Planet_Y, /Game/Maps/OpenSpaceMap/Spaceship.Spaceship
+[2019.12.05-07.17.06:423][749]LogObjectTools: Currently 4 active worlds: /Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent, /Engine/Transient.World_0, /Engine/Transient.World_2, /Engine/Transient.World_3
+[2019.12.05-07.17.06:465][749]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.12.05-07.17.08:453][749]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.05-07.17.08:672][749]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.12.05-07.17.08:710][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.12.05-07.17.08:748][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.12.05-07.17.08:786][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.12.05-07.17.08:824][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2019.12.05-07.17.08:865][749]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.12.05-07.17.08:901][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2019.12.05-07.17.09:207][749]SourceControl: Error: Updated 4 paths from the index
+[2019.12.05-07.17.09:446][749]SourceControl: rm 'Content/Maps/OpenSpaceMap/Charlie_star.umap'
+[2019.12.05-07.17.09:446][749]SourceControl: rm 'Content/Maps/OpenSpaceMap/Planet_X.umap'
+[2019.12.05-07.17.09:446][749]SourceControl: rm 'Content/Maps/OpenSpaceMap/Planet_Y.umap'
+[2019.12.05-07.17.09:446][749]SourceControl: rm 'Content/Maps/OpenSpaceMap/Spaceship.umap'
+[2019.12.05-07.17.09:446][749]SourceControl: rm 'Content/Maps/OpenSpaceMap/Spaceship_BuiltData.uasset'
+[2019.12.05-07.17.16:412][570]Cmd: DELETE
+[2019.12.05-07.17.16:412][570]Cmd: ACTOR DELETE
+[2019.12.05-07.17.16:412][570]LogEditorActor: Deleted Actor: Sun_blueprint_C
+[2019.12.05-07.17.16:455][570]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2019.12.05-07.17.16:455][570]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2019.12.05-07.17.21:604][185]Cmd: DELETE
+[2019.12.05-07.17.21:604][185]Cmd: ACTOR DELETE
+[2019.12.05-07.17.21:605][185]LogEditorActor: Deleted Actor: PlayerStart
+[2019.12.05-07.17.21:644][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.12.05-07.17.21:644][185]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2019.12.05-07.17.22:692][311]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.17.31:600][778]LogSlate: Window 'Save Level As' being destroyed
+[2019.12.05-07.17.31:656][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.12.05-07.17.31:665][778]LogSavePackage: Moving 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Saved/Charlie_star740A1A8A452E0B7C5482AAAF2EB99749.tmp' to 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Content/Maps/OpenSpaceMap/Charlie_star.umap'
+[2019.12.05-07.17.31:928][778]LogFileHelpers: Saving map 'Charlie_star' took 0.321
+[2019.12.05-07.17.31:929][778]LogWorld: UWorld::CleanupWorld for Charlie_star, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-07.17.31:967][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2019.12.05-07.17.41:456][823]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.05-07.17.42:653][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.17.47:599][537]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={3AF49AEA-4BF0-B622-F19F-7E84B112708D}
+[2019.12.05-07.18.18:249][134]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.05-07.18.19:353][243]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.18.48:090][952]LogSlate: Window 'Save Level As' being destroyed
+[2019.12.05-07.18.48:185][952]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2019.12.05-07.18.48:194][952]LogSavePackage: Moving 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Saved/PlanetX097BECB94CCBE0C61918189FEBE89C5F.tmp' to 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Content/Maps/OpenSpaceMap/PlanetX.umap'
+[2019.12.05-07.18.48:521][952]LogFileHelpers: Saving map 'PlanetX' took 0.424
+[2019.12.05-07.18.48:524][952]LogWorld: UWorld::CleanupWorld for PlanetX, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-07.18.48:568][952]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2019.12.05-07.18.48:579][952]LogAIModule: Creating AISystem for world PlanetX
+[2019.12.05-07.18.59:187][143]LogActorFactory: Actor Factory created Sphere
+[2019.12.05-07.18.59:866][222]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.05-07.18.59:992][222]LogActorFactory: Actor Factory created Sphere
+[2019.12.05-07.19.01:121][344]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.19.15:149][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.19.29:418][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.19.41:576][937]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.05-07.19.44:223][221]LogLevel: WORLD TRANSLATION BEGIN {0, 0, 0} -> {0, 975023, 0}
+[2019.12.05-07.19.44:225][221]LogLevel: WORLD TRANSLATION END {0, 975023, 0} took 1.8538 ms
+[2019.12.05-07.19.55:999][606]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.20.02:447][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.20.08:621][981]LogLevel: WORLD TRANSLATION BEGIN {0, 975023, 0} -> {0, 1959398, 0}
+[2019.12.05-07.20.08:623][981]LogLevel: WORLD TRANSLATION END {0, 1959398, 0} took 1.3973 ms
+[2019.12.05-07.20.14:051][626]LogLevel: WORLD TRANSLATION BEGIN {0, 1959398, 0} -> {0, 3157298, 0}
+[2019.12.05-07.20.14:051][626]LogLevel: WORLD TRANSLATION END {0, 3157298, 0} took 0.1306 ms
+[2019.12.05-07.20.22:599][639]LogLevel: WORLD TRANSLATION BEGIN {0, 3157298, 0} -> {0, 4234657, 0}
+[2019.12.05-07.20.22:599][639]LogLevel: WORLD TRANSLATION END {0, 4234657, 0} took 0.1255 ms
+[2019.12.05-07.20.28:408][331]LogLevel: WORLD TRANSLATION BEGIN {0, 4234657, 0} -> {0, 4930046, 0}
+[2019.12.05-07.20.28:408][331]LogLevel: WORLD TRANSLATION END {0, 4930046, 0} took 0.1226 ms
+[2019.12.05-07.20.38:816][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.20.39:290][580]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.05-07.20.40:574][580]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2019.12.05-07.20.41:315][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.20.41:406][676]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.05-07.20.41:433][676]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.20.41:433][676]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.20.41:434][676]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.20.41:434][676]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.05-07.20.41:467][676]PIE: New page: PIE session: Charlie_persistent (Dec 4, 2019, 3:20:41 PM)
+[2019.12.05-07.20.41:468][676]LogOnline: OSS: Creating online subsystem instance for: Steam
+[2019.12.05-07.20.41:468][676]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2019.12.05-07.20.41:468][676]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.05-07.20.41:469][676]LogPlayLevel: Creating play world package: /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent
+[2019.12.05-07.20.41:470][676]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001076s)
+[2019.12.05-07.20.41:471][676]LogAIModule: Creating AISystem for world Charlie_persistent
+[2019.12.05-07.20.41:471][676]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2019.12.05-07.20.41:471][676]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent to /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent.Charlie_persistent (0.002190s)
+[2019.12.05-07.20.41:512][676]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2019.12.05-07.20.41:532][676]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.05-07.20.41:544][676]LogInit: FAudioDevice initialized.
+[2019.12.05-07.20.41:912][676]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.05-07.20.41:913][676]LogWorld: Bringing World /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent.Charlie_persistent up for play (max tick rate 0) at 2019.12.04-23.20.41
+[2019.12.05-07.20.41:913][676]LogWorld: Bringing up level for play took: 0.000410
+[2019.12.05-07.20.41:913][676]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.12.05-07.20.41:915][676]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.05-07.20.41:933][676]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.12.05-07.20.41:935][676]PIE: Play in editor start time for /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent 0.947
+[2019.12.05-07.20.41:935][676]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.20.41:935][676]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.20.41:935][676]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.20.44:698][960]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.20.44:698][960]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.20.44:698][960]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.20.44:698][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-07.20.44:699][960]LogWorld: BeginTearingDown for /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent
+[2019.12.05-07.20.44:699][960]LogWorld: UWorld::CleanupWorld for Charlie_persistent, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-07.20.44:707][960]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.05-07.20.44:708][960]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.20.44:708][960]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.20.44:708][960]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.20.44:760][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-07.20.44:809][960]LogUObjectHash: Compacting FUObjectHashTables data took   5.76ms
+[2019.12.05-07.20.44:823][961]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.12.05-07.20.46:701][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.20.48:966][450]Cmd: DELETE
+[2019.12.05-07.20.48:966][450]Cmd: ACTOR DELETE
+[2019.12.05-07.20.48:967][450]LogEditorActor: Deleted Actor: PlayerStart
+[2019.12.05-07.20.49:029][450]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2019.12.05-07.20.49:029][450]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2019.12.05-07.20.54:582][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.20.59:911][723]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.21.01:491][909]MapCheck: New page: Map Check
+[2019.12.05-07.21.04:863][909]LogSlate: Window 'Message' being destroyed
+[2019.12.05-07.21.14:764][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.21.20:936][799]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.21.21:036][811]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.05-07.21.21:057][811]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.21.21:057][811]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.21.21:057][811]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.21.21:057][811]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.05-07.21.21:057][811]PIE: New page: PIE session: Charlie_persistent (Dec 4, 2019, 3:21:21 PM)
+[2019.12.05-07.21.21:057][811]LogPlayLevel: Creating play world package: /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent
+[2019.12.05-07.21.21:059][811]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001341s)
+[2019.12.05-07.21.21:059][811]LogAIModule: Creating AISystem for world Charlie_persistent
+[2019.12.05-07.21.21:059][811]LogPlayLevel: PIE: World Init took: (0.000904s)
+[2019.12.05-07.21.21:060][811]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent to /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent.Charlie_persistent (0.002383s)
+[2019.12.05-07.21.21:098][811]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2019.12.05-07.21.21:120][811]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.05-07.21.21:131][811]LogInit: FAudioDevice initialized.
+[2019.12.05-07.21.21:138][811]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.05-07.21.21:139][811]LogWorld: Bringing World /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent.Charlie_persistent up for play (max tick rate 0) at 2019.12.04-23.21.21
+[2019.12.05-07.21.21:139][811]LogWorld: Bringing up level for play took: 0.000366
+[2019.12.05-07.21.21:139][811]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2019.12.05-07.21.21:142][811]PIE: Play in editor start time for /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent 0.154
+[2019.12.05-07.21.21:142][811]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.21.21:142][811]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.21.21:142][811]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.21.21:142][811]LogLevel: WORLD TRANSLATION BEGIN {0, 4930046, 0} -> {182592, 5655365, 0}
+[2019.12.05-07.21.21:142][811]LogLevel: WORLD TRANSLATION END {182592, 5655365, 0} took 0.0384 ms
+[2019.12.05-07.21.25:419][320]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.21.25:419][320]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.21.25:419][320]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.21.25:420][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-07.21.25:420][320]LogWorld: BeginTearingDown for /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent
+[2019.12.05-07.21.25:420][320]LogWorld: UWorld::CleanupWorld for Charlie_persistent, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-07.21.25:427][320]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.05-07.21.25:427][320]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.21.25:428][320]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.21.25:428][320]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.21.25:473][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-07.21.25:477][320]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.12.05-07.21.25:524][324]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.12.05-07.21.29:565][740]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.05-07.21.32:241][ 47]LogLevel: WORLD TRANSLATION BEGIN {0, 4930046, 0} -> {0, 1452237, 0}
+[2019.12.05-07.21.32:245][ 47]LogLevel: WORLD TRANSLATION END {0, 1452237, 0} took 3.2924 ms
+[2019.12.05-07.21.46:863][764]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.21.50:981][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.21.51:069][262]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.05-07.21.51:090][262]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.21.51:090][262]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.21.51:090][262]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.21.51:090][262]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.05-07.21.51:090][262]PIE: New page: PIE session: Charlie_persistent (Dec 4, 2019, 3:21:51 PM)
+[2019.12.05-07.21.51:091][262]LogPlayLevel: Creating play world package: /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent
+[2019.12.05-07.21.51:092][262]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001063s)
+[2019.12.05-07.21.51:092][262]LogAIModule: Creating AISystem for world Charlie_persistent
+[2019.12.05-07.21.51:093][262]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2019.12.05-07.21.51:093][262]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent to /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent.Charlie_persistent (0.002091s)
+[2019.12.05-07.21.51:134][262]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2019.12.05-07.21.51:158][262]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.05-07.21.51:171][262]LogInit: FAudioDevice initialized.
+[2019.12.05-07.21.51:180][262]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.05-07.21.51:181][262]LogWorld: Bringing World /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent.Charlie_persistent up for play (max tick rate 0) at 2019.12.04-23.21.51
+[2019.12.05-07.21.51:181][262]LogWorld: Bringing up level for play took: 0.000353
+[2019.12.05-07.21.51:181][262]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.12.05-07.21.51:185][262]PIE: Play in editor start time for /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent 0.197
+[2019.12.05-07.21.51:185][262]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.21.51:185][262]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.21.51:185][262]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.21.51:185][262]LogLevel: WORLD TRANSLATION BEGIN {0, 1452237, 0} -> {1339139, 882529, 0}
+[2019.12.05-07.21.51:185][262]LogLevel: WORLD TRANSLATION END {1339139, 882529, 0} took 0.0388 ms
+[2019.12.05-07.21.52:957][473]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.21.52:957][473]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.21.52:957][473]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.21.52:957][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-07.21.52:957][473]LogWorld: BeginTearingDown for /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent
+[2019.12.05-07.21.52:957][473]LogWorld: UWorld::CleanupWorld for Charlie_persistent, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-07.21.52:968][473]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.05-07.21.52:968][473]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.21.52:968][473]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.21.52:968][473]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.21.53:015][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-07.21.53:019][473]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2019.12.05-07.21.53:059][476]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.12.05-07.22.04:813][811]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.05-07.22.07:932][177]LogLevel: WORLD TRANSLATION BEGIN {0, 1452237, 0} -> {1201662, 333917, 0}
+[2019.12.05-07.22.07:934][177]LogLevel: WORLD TRANSLATION END {1201662, 333917, 0} took 1.5595 ms
+[2019.12.05-07.22.10:246][452]LogLevel: WORLD TRANSLATION BEGIN {1201662, 333917, 0} -> {1201662, -396675, 0}
+[2019.12.05-07.22.10:247][452]LogLevel: WORLD TRANSLATION END {1201662, -396675, 0} took 0.1316 ms
+[2019.12.05-07.22.11:938][654]LogLevel: WORLD TRANSLATION BEGIN {1201662, -396675, 0} -> {1793534, -396675, 0}
+[2019.12.05-07.22.11:940][654]LogLevel: WORLD TRANSLATION END {1793534, -396675, 0} took 1.3928 ms
+[2019.12.05-07.22.13:144][797]LogLevel: WORLD TRANSLATION BEGIN {1793534, -396675, 0} -> {2422398, 160985, 0}
+[2019.12.05-07.22.13:144][797]LogLevel: WORLD TRANSLATION END {2422398, 160985, 0} took 0.1351 ms
+[2019.12.05-07.22.16:266][170]LogLevel: WORLD TRANSLATION BEGIN {2422398, 160985, 0} -> {1568802, 160985, 0}
+[2019.12.05-07.22.16:266][170]LogLevel: WORLD TRANSLATION END {1568802, 160985, 0} took 0.1528 ms
+[2019.12.05-07.22.17:107][269]LogLevel: WORLD TRANSLATION BEGIN {1568802, 160985, 0} -> {560770, 160985, 0}
+[2019.12.05-07.22.17:110][269]LogLevel: WORLD TRANSLATION END {560770, 160985, 0} took 2.3353 ms
+[2019.12.05-07.22.18:558][441]LogLevel: WORLD TRANSLATION BEGIN {560770, 160985, 0} -> {1136926, 160985, 0}
+[2019.12.05-07.22.18:559][441]LogLevel: WORLD TRANSLATION END {1136926, 160985, 0} took 0.1260 ms
+[2019.12.05-07.22.29:854][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.22.33:694][212]LogActorFactory: Actor Factory created Sphere
+[2019.12.05-07.22.35:025][365]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.05-07.22.36:837][365]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2019.12.05-07.22.43:157][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.05-07.22.44:679][ 70]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2019.12.05-07.22.48:345][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.22.54:457][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.23.01:814][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.23.11:840][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.23.12:566][324]Cmd: DELETE
+[2019.12.05-07.23.12:566][324]Cmd: ACTOR DELETE
+[2019.12.05-07.23.12:568][324]LogEditorActor: Deleted Actor: Character
+[2019.12.05-07.23.12:607][324]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2019.12.05-07.23.12:608][324]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2019.12.05-07.23.22:977][ 67]LogSlate: Window 'Save Level As' being destroyed
+[2019.12.05-07.23.23:041][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.12.05-07.23.23:049][ 67]LogSavePackage: Moving 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Saved/Spaceship988121784A92F93BB270A1A47147D4A0.tmp' to 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Content/Maps/OpenSpaceMap/Spaceship.umap'
+[2019.12.05-07.23.23:310][ 67]LogFileHelpers: Saving map 'Spaceship' took 0.324
+[2019.12.05-07.23.23:312][ 67]LogWorld: UWorld::CleanupWorld for Spaceship, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-07.23.23:351][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2019.12.05-07.23.29:322][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.23.31:035][953]LogLevel: WORLD TRANSLATION BEGIN {1136926, 160985, 0} -> {0, 0, 0}
+[2019.12.05-07.23.31:037][953]LogLevel: WORLD TRANSLATION END {0, 0, 0} took 1.4208 ms
+[2019.12.05-07.23.41:573][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.23.44:022][479]LogLevel: WORLD TRANSLATION BEGIN {0, 0, 0} -> {2037216, 164219, 0}
+[2019.12.05-07.23.44:024][479]LogLevel: WORLD TRANSLATION END {2037216, 164219, 0} took 2.7717 ms
+[2019.12.05-07.23.53:251][501]LogLevel: WORLD TRANSLATION BEGIN {2037216, 164219, 0} -> {1144275, 164219, 0}
+[2019.12.05-07.23.53:253][501]LogLevel: WORLD TRANSLATION END {1144275, 164219, 0} took 2.1736 ms
+[2019.12.05-07.23.57:232][978]LogLevel: WORLD TRANSLATION BEGIN {1144275, 164219, 0} -> {1144275, -491797, 0}
+[2019.12.05-07.23.57:232][978]LogLevel: WORLD TRANSLATION END {1144275, -491797, 0} took 0.1389 ms
+[2019.12.05-07.23.58:600][142]LogLevel: WORLD TRANSLATION BEGIN {1144275, -491797, 0} -> {1681746, 319048, 0}
+[2019.12.05-07.23.58:602][142]LogLevel: WORLD TRANSLATION END {1681746, 319048, 0} took 2.3025 ms
+[2019.12.05-07.24.00:060][317]LogLevel: WORLD TRANSLATION BEGIN {1681746, 319048, 0} -> {971138, 319048, 0}
+[2019.12.05-07.24.00:062][317]LogLevel: WORLD TRANSLATION END {971138, 319048, 0} took 2.1431 ms
+[2019.12.05-07.24.01:841][530]LogLevel: WORLD TRANSLATION BEGIN {971138, 319048, 0} -> {260363, -300434, 0}
+[2019.12.05-07.24.01:841][530]LogLevel: WORLD TRANSLATION END {260363, -300434, 0} took 0.1456 ms
+[2019.12.05-07.24.03:252][699]LogLevel: WORLD TRANSLATION BEGIN {260363, -300434, 0} -> {-523312, -300434, 0}
+[2019.12.05-07.24.03:252][699]LogLevel: WORLD TRANSLATION END {-523312, -300434, 0} took 0.1493 ms
+[2019.12.05-07.24.04:489][847]LogLevel: WORLD TRANSLATION BEGIN {-523312, -300434, 0} -> {497122, -300434, 0}
+[2019.12.05-07.24.04:490][847]LogLevel: WORLD TRANSLATION END {497122, -300434, 0} took 1.4832 ms
+[2019.12.05-07.24.05:671][988]LogLevel: WORLD TRANSLATION BEGIN {497122, -300434, 0} -> {497122, 337272, 0}
+[2019.12.05-07.24.05:671][988]LogLevel: WORLD TRANSLATION END {497122, 337272, 0} took 0.1363 ms
+[2019.12.05-07.24.07:166][167]LogLevel: WORLD TRANSLATION BEGIN {497122, 337272, 0} -> {1089435, 337272, 0}
+[2019.12.05-07.24.07:166][167]LogLevel: WORLD TRANSLATION END {1089435, 337272, 0} took 0.1298 ms
+[2019.12.05-07.24.10:001][507]LogLevel: WORLD TRANSLATION BEGIN {1089435, 337272, 0} -> {1636185, 337272, 0}
+[2019.12.05-07.24.10:003][507]LogLevel: WORLD TRANSLATION END {1636185, 337272, 0} took 1.6605 ms
+[2019.12.05-07.24.12:537][811]LogLevel: WORLD TRANSLATION BEGIN {1636185, 337272, 0} -> {760146, 337272, 0}
+[2019.12.05-07.24.12:540][811]LogLevel: WORLD TRANSLATION END {760146, 337272, 0} took 3.2579 ms
+[2019.12.05-07.24.14:876][ 91]LogLevel: WORLD TRANSLATION BEGIN {760146, 337272, 0} -> {1324954, 337272, 0}
+[2019.12.05-07.24.14:878][ 91]LogLevel: WORLD TRANSLATION END {1324954, 337272, 0} took 1.3895 ms
+[2019.12.05-07.24.16:743][315]LogLevel: WORLD TRANSLATION BEGIN {1324954, 337272, 0} -> {760146, 337272, 0}
+[2019.12.05-07.24.16:745][315]LogLevel: WORLD TRANSLATION END {760146, 337272, 0} took 2.1385 ms
+[2019.12.05-07.24.48:917][156]LogLevel: WORLD TRANSLATION BEGIN {760146, 337272, 0} -> {-91956, 337272, 0}
+[2019.12.05-07.24.48:918][156]LogLevel: WORLD TRANSLATION END {-91956, 337272, 0} took 1.4515 ms
+[2019.12.05-07.24.50:704][369]Cmd: TRANSACTION UNDO
+[2019.12.05-07.24.50:704][369]LogEditorTransaction: Undo Move Levels
+[2019.12.05-07.24.53:135][652]LogLevel: WORLD TRANSLATION BEGIN {-91956, 337272, 0} -> {486626, 337272, 0}
+[2019.12.05-07.24.53:135][652]LogLevel: WORLD TRANSLATION END {486626, 337272, 0} took 0.1373 ms
+[2019.12.05-07.24.54:155][774]LogLevel: WORLD TRANSLATION BEGIN {486626, 337272, 0} -> {1103175, 337272, 0}
+[2019.12.05-07.24.54:155][774]LogLevel: WORLD TRANSLATION END {1103175, 337272, 0} took 0.1486 ms
+[2019.12.05-07.25.05:798][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.25.12:826][912]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.05-07.25.14:583][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.26.12:796][700]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.05-07.26.18:860][399]LogLevel: WORLD TRANSLATION BEGIN {1103175, 337272, 0} -> {333863, 337272, 0}
+[2019.12.05-07.26.18:863][399]LogLevel: WORLD TRANSLATION END {333863, 337272, 0} took 2.5364 ms
+[2019.12.05-07.26.20:357][577]LogLevel: WORLD TRANSLATION BEGIN {333863, 337272, 0} -> {333863, 935831, 0}
+[2019.12.05-07.26.20:358][577]LogLevel: WORLD TRANSLATION END {333863, 935831, 0} took 0.1493 ms
+[2019.12.05-07.26.45:543][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.26.45:651][519]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.05-07.26.45:671][519]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.26.45:671][519]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.26.45:671][519]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.26.45:671][519]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.26.45:672][519]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.05-07.26.45:672][519]PIE: New page: PIE session: Charlie_persistent (Dec 4, 2019, 3:26:45 PM)
+[2019.12.05-07.26.45:672][519]LogPlayLevel: Creating play world package: /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent
+[2019.12.05-07.26.45:673][519]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001090s)
+[2019.12.05-07.26.45:674][519]LogAIModule: Creating AISystem for world Charlie_persistent
+[2019.12.05-07.26.45:674][519]LogPlayLevel: PIE: World Init took: (0.000894s)
+[2019.12.05-07.26.45:674][519]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent to /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent.Charlie_persistent (0.002093s)
+[2019.12.05-07.26.45:718][519]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2019.12.05-07.26.45:739][519]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.05-07.26.45:751][519]LogInit: FAudioDevice initialized.
+[2019.12.05-07.26.45:756][519]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.05-07.26.45:756][519]LogWorld: Bringing World /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent.Charlie_persistent up for play (max tick rate 0) at 2019.12.04-23.26.45
+[2019.12.05-07.26.45:757][519]LogWorld: Bringing up level for play took: 0.000383
+[2019.12.05-07.26.45:757][519]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.12.05-07.26.45:765][519]PIE: Play in editor start time for /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent 0.777
+[2019.12.05-07.26.45:769][519]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.26.45:769][519]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.26.45:769][519]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.26.45:769][519]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.26.45:769][519]LogLevel: WORLD TRANSLATION BEGIN {333863, 935831, 0} -> {-22919, 1743463, 0}
+[2019.12.05-07.26.45:770][519]LogLevel: WORLD TRANSLATION END {-22919, 1743463, 0} took 0.0807 ms
+[2019.12.05-07.27.10:957][535]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.27.10:957][535]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.27.10:957][535]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.27.10:957][535]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.27.10:958][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-07.27.10:958][535]LogWorld: BeginTearingDown for /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent
+[2019.12.05-07.27.10:958][535]LogWorld: UWorld::CleanupWorld for Charlie_persistent, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-07.27.10:968][535]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.05-07.27.10:968][535]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.27.10:968][535]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.27.10:968][535]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.27.10:968][535]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.27.11:012][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-07.27.11:017][535]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2019.12.05-07.27.11:071][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.12.05-07.27.11:082][537]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.12.05-07.27.12:975][708]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.05-07.27.27:562][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.27.33:086][ 80]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_bp_C (Space_Skybox_bp)
+[2019.12.05-07.27.35:959][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.27.41:652][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.05-07.27.43:731][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.27.47:469][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.27.55:481][621]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.12.05-07.27.58:812][  1]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.12.05-07.27.59:252][ 52]LogEditorViewport: Clicking on Actor (LMB): FbxScene_Corvette-F3_C (FbxScene_Corvette-F3)
+[2019.12.05-07.28.01:102][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.28.02:997][488]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.05-07.28.03:023][488]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.28.03:023][488]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.28.03:023][488]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.28.03:023][488]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.28.03:023][488]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.05-07.28.03:023][488]PIE: New page: PIE session: Charlie_persistent (Dec 4, 2019, 3:28:03 PM)
+[2019.12.05-07.28.03:024][488]LogPlayLevel: Creating play world package: /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent
+[2019.12.05-07.28.03:025][488]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001204s)
+[2019.12.05-07.28.03:026][488]LogAIModule: Creating AISystem for world Charlie_persistent
+[2019.12.05-07.28.03:026][488]LogPlayLevel: PIE: World Init took: (0.001104s)
+[2019.12.05-07.28.03:026][488]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent to /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent.Charlie_persistent (0.002422s)
+[2019.12.05-07.28.03:069][488]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2019.12.05-07.28.03:093][488]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.05-07.28.03:107][488]LogInit: FAudioDevice initialized.
+[2019.12.05-07.28.03:117][488]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.05-07.28.03:118][488]LogWorld: Bringing World /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent.Charlie_persistent up for play (max tick rate 0) at 2019.12.04-23.28.03
+[2019.12.05-07.28.03:118][488]LogWorld: Bringing up level for play took: 0.000384
+[2019.12.05-07.28.03:118][488]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2019.12.05-07.28.03:126][488]PIE: Play in editor start time for /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent 0.138
+[2019.12.05-07.28.03:126][488]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.28.03:126][488]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.28.03:126][488]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.28.03:126][488]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.28.03:126][488]LogLevel: WORLD TRANSLATION BEGIN {333863, 935831, 0} -> {-37465, 1697596, 0}
+[2019.12.05-07.28.03:126][488]LogLevel: WORLD TRANSLATION END {-37465, 1697596, 0} took 0.0449 ms
+[2019.12.05-07.28.30:959][825]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.28.30:959][825]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.28.30:959][825]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.28.30:959][825]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.28.30:959][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-07.28.30:959][825]LogWorld: BeginTearingDown for /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent
+[2019.12.05-07.28.30:959][825]LogWorld: UWorld::CleanupWorld for Charlie_persistent, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-07.28.30:969][825]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.05-07.28.30:969][825]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.28.30:969][825]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.28.30:969][825]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.28.30:969][825]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.28.31:017][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-07.28.31:021][825]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2019.12.05-07.28.31:078][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.12.05-07.28.31:089][827]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.12.05-07.28.35:456][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.28.44:110][368]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.05-07.28.50:605][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.29.06:371][994]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.05-07.29.06:397][994]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.29.06:397][994]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.29.06:397][994]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.29.06:397][994]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.29.06:397][994]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.05-07.29.06:397][994]PIE: New page: PIE session: Charlie_persistent (Dec 4, 2019, 3:29:06 PM)
+[2019.12.05-07.29.06:398][994]LogPlayLevel: Creating play world package: /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent
+[2019.12.05-07.29.06:399][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001694s)
+[2019.12.05-07.29.06:400][994]LogAIModule: Creating AISystem for world Charlie_persistent
+[2019.12.05-07.29.06:400][994]LogPlayLevel: PIE: World Init took: (0.000943s)
+[2019.12.05-07.29.06:400][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent to /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent.Charlie_persistent (0.002748s)
+[2019.12.05-07.29.06:440][994]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2019.12.05-07.29.06:462][994]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.05-07.29.06:473][994]LogInit: FAudioDevice initialized.
+[2019.12.05-07.29.06:481][994]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.05-07.29.06:482][994]LogWorld: Bringing World /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent.Charlie_persistent up for play (max tick rate 0) at 2019.12.04-23.29.06
+[2019.12.05-07.29.06:482][994]LogWorld: Bringing up level for play took: 0.000441
+[2019.12.05-07.29.06:482][994]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2019.12.05-07.29.06:490][994]PIE: Play in editor start time for /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent -0.497
+[2019.12.05-07.29.06:490][994]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.29.06:490][994]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.29.06:490][994]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.29.06:490][994]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.29.06:490][994]LogLevel: WORLD TRANSLATION BEGIN {333863, 935831, 0} -> {-37465, 1697596, 0}
+[2019.12.05-07.29.06:490][994]LogLevel: WORLD TRANSLATION END {-37465, 1697596, 0} took 0.0484 ms
+[2019.12.05-07.29.19:434][545]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.29.19:434][545]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.29.19:434][545]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.29.19:434][545]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.29.19:434][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-07.29.19:434][545]LogWorld: BeginTearingDown for /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent
+[2019.12.05-07.29.19:435][545]LogWorld: UWorld::CleanupWorld for Charlie_persistent, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-07.29.19:445][545]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.05-07.29.19:445][545]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.29.19:445][545]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.29.19:445][545]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.29.19:445][545]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.29.19:490][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-07.29.19:494][545]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2019.12.05-07.29.19:549][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.12.05-07.29.19:560][547]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.12.05-07.29.23:289][994]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.29.24:674][156]LogLevel: WORLD TRANSLATION BEGIN {333863, 935831, 0} -> {0, 0, 0}
+[2019.12.05-07.29.24:677][156]LogLevel: WORLD TRANSLATION END {0, 0, 0} took 2.2654 ms
+[2019.12.05-07.29.44:449][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.29.44:532][502]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.05-07.29.44:556][502]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.29.44:556][502]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.29.44:556][502]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.29.44:556][502]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.29.44:557][502]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.05-07.29.44:557][502]PIE: New page: PIE session: Charlie_persistent (Dec 4, 2019, 3:29:44 PM)
+[2019.12.05-07.29.44:557][502]LogPlayLevel: Creating play world package: /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent
+[2019.12.05-07.29.44:559][502]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001617s)
+[2019.12.05-07.29.44:559][502]LogAIModule: Creating AISystem for world Charlie_persistent
+[2019.12.05-07.29.44:560][502]LogPlayLevel: PIE: World Init took: (0.000896s)
+[2019.12.05-07.29.44:560][502]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent to /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent.Charlie_persistent (0.002625s)
+[2019.12.05-07.29.44:600][502]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.12.05-07.29.44:624][502]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.05-07.29.44:638][502]LogInit: FAudioDevice initialized.
+[2019.12.05-07.29.44:644][502]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.05-07.29.44:644][502]LogWorld: Bringing World /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent.Charlie_persistent up for play (max tick rate 0) at 2019.12.04-23.29.44
+[2019.12.05-07.29.44:645][502]LogWorld: Bringing up level for play took: 0.000421
+[2019.12.05-07.29.44:645][502]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2019.12.05-07.29.44:652][502]PIE: Play in editor start time for /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent -0.335
+[2019.12.05-07.29.44:652][502]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.29.44:652][502]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.29.44:652][502]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.29.44:652][502]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.29.44:653][502]LogLevel: WORLD TRANSLATION BEGIN {0, 0, 0} -> {-37465, 1697596, 0}
+[2019.12.05-07.29.44:653][502]LogLevel: WORLD TRANSLATION END {-37465, 1697596, 0} took 0.0460 ms
+[2019.12.05-07.29.56:453][917]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.29.56:454][917]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.29.56:454][917]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.29.56:454][917]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.29.56:454][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-07.29.56:454][917]LogWorld: BeginTearingDown for /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent
+[2019.12.05-07.29.56:454][917]LogWorld: UWorld::CleanupWorld for Charlie_persistent, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-07.29.56:459][917]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.05-07.29.56:459][917]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.29.56:460][917]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.29.56:460][917]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.29.56:460][917]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.29.56:500][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-07.29.56:504][917]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2019.12.05-07.29.56:554][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2019.12.05-07.29.56:565][919]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.12.05-07.30.02:682][652]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.30.10:889][622]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.05-07.30.10:920][622]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.30.10:920][622]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.30.10:920][622]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.30.10:920][622]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.30.10:920][622]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.05-07.30.10:920][622]PIE: New page: PIE session: Charlie_persistent (Dec 4, 2019, 3:30:10 PM)
+[2019.12.05-07.30.10:921][622]LogPlayLevel: Creating play world package: /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent
+[2019.12.05-07.30.10:923][622]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001751s)
+[2019.12.05-07.30.10:924][622]LogAIModule: Creating AISystem for world Charlie_persistent
+[2019.12.05-07.30.10:924][622]LogPlayLevel: PIE: World Init took: (0.000949s)
+[2019.12.05-07.30.10:924][622]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent to /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent.Charlie_persistent (0.002812s)
+[2019.12.05-07.30.10:966][622]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2019.12.05-07.30.10:987][622]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.05-07.30.11:001][622]LogInit: FAudioDevice initialized.
+[2019.12.05-07.30.11:009][622]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.05-07.30.11:010][622]LogWorld: Bringing World /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent.Charlie_persistent up for play (max tick rate 0) at 2019.12.04-23.30.11
+[2019.12.05-07.30.11:010][622]LogWorld: Bringing up level for play took: 0.000453
+[2019.12.05-07.30.11:010][622]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2019.12.05-07.30.11:017][622]PIE: Play in editor start time for /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent 0.03
+[2019.12.05-07.30.11:018][622]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.30.11:018][622]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.30.11:018][622]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.30.11:018][622]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.30.11:018][622]LogLevel: WORLD TRANSLATION BEGIN {0, 0, 0} -> {-37465, 1697596, 0}
+[2019.12.05-07.30.11:018][622]LogLevel: WORLD TRANSLATION END {-37465, 1697596, 0} took 0.0408 ms
+[2019.12.05-07.30.21:565][886]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.30.21:565][886]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.30.21:565][886]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.30.21:565][886]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.30.21:565][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-07.30.21:565][886]LogWorld: BeginTearingDown for /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent
+[2019.12.05-07.30.21:565][886]LogWorld: UWorld::CleanupWorld for Charlie_persistent, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-07.30.21:575][886]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.05-07.30.21:575][886]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.30.21:575][886]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.30.21:575][886]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.30.21:575][886]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.30.21:623][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-07.30.21:627][886]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2019.12.05-07.30.21:686][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2019.12.05-07.30.21:697][888]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.12.05-07.30.24:623][239]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.30.43:688][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.30.47:451][939]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.05-07.30.47:475][939]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.30.47:475][939]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.30.47:475][939]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.30.47:475][939]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.30.47:475][939]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.05-07.30.47:475][939]PIE: New page: PIE session: Charlie_persistent (Dec 4, 2019, 3:30:47 PM)
+[2019.12.05-07.30.47:476][939]LogPlayLevel: Creating play world package: /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent
+[2019.12.05-07.30.47:478][939]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001690s)
+[2019.12.05-07.30.47:478][939]LogAIModule: Creating AISystem for world Charlie_persistent
+[2019.12.05-07.30.47:478][939]LogPlayLevel: PIE: World Init took: (0.000921s)
+[2019.12.05-07.30.47:478][939]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent to /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent.Charlie_persistent (0.002723s)
+[2019.12.05-07.30.47:517][939]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2019.12.05-07.30.47:538][939]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.05-07.30.47:549][939]LogInit: FAudioDevice initialized.
+[2019.12.05-07.30.47:556][939]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.05-07.30.47:556][939]LogWorld: Bringing World /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent.Charlie_persistent up for play (max tick rate 0) at 2019.12.04-23.30.47
+[2019.12.05-07.30.47:557][939]LogWorld: Bringing up level for play took: 0.000461
+[2019.12.05-07.30.47:557][939]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2019.12.05-07.30.47:565][939]PIE: Play in editor start time for /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent 0.578
+[2019.12.05-07.30.47:565][939]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.30.47:565][939]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.30.47:565][939]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.30.47:565][939]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.30.47:565][939]LogLevel: WORLD TRANSLATION BEGIN {0, 0, 0} -> {-37465, 1697596, 0}
+[2019.12.05-07.30.47:565][939]LogLevel: WORLD TRANSLATION END {-37465, 1697596, 0} took 0.0445 ms
+[2019.12.05-07.30.51:306][387]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.30.51:306][387]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.30.51:306][387]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.30.51:306][387]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.30.51:307][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-07.30.51:307][387]LogWorld: BeginTearingDown for /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent
+[2019.12.05-07.30.51:307][387]LogWorld: UWorld::CleanupWorld for Charlie_persistent, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-07.30.51:314][387]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.05-07.30.51:314][387]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.30.51:314][387]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.30.51:314][387]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.30.51:314][387]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.30.51:363][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-07.30.51:366][387]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2019.12.05-07.30.51:417][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.12.05-07.30.51:423][389]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.12.05-07.30.52:066][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.30.54:923][804]LogLevel: WORLD TRANSLATION BEGIN {0, 0, 0} -> {-36229, 1697653, 0}
+[2019.12.05-07.30.54:928][804]LogLevel: WORLD TRANSLATION END {-36229, 1697653, 0} took 4.3547 ms
+[2019.12.05-07.31.06:800][217]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.31.06:884][227]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.05-07.31.06:909][227]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.31.06:909][227]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.31.06:909][227]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.31.06:909][227]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.31.06:910][227]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.05-07.31.06:910][227]PIE: New page: PIE session: Charlie_persistent (Dec 4, 2019, 3:31:06 PM)
+[2019.12.05-07.31.06:910][227]LogPlayLevel: Creating play world package: /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent
+[2019.12.05-07.31.06:912][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001654s)
+[2019.12.05-07.31.06:912][227]LogAIModule: Creating AISystem for world Charlie_persistent
+[2019.12.05-07.31.06:913][227]LogPlayLevel: PIE: World Init took: (0.000881s)
+[2019.12.05-07.31.06:913][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent to /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent.Charlie_persistent (0.002645s)
+[2019.12.05-07.31.06:954][227]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.12.05-07.31.06:974][227]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.05-07.31.06:985][227]LogInit: FAudioDevice initialized.
+[2019.12.05-07.31.06:994][227]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.05-07.31.06:995][227]LogWorld: Bringing World /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent.Charlie_persistent up for play (max tick rate 0) at 2019.12.04-23.31.06
+[2019.12.05-07.31.06:995][227]LogWorld: Bringing up level for play took: 0.000463
+[2019.12.05-07.31.06:995][227]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2019.12.05-07.31.07:003][227]PIE: Play in editor start time for /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent 0.016
+[2019.12.05-07.31.07:008][227]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.31.07:008][227]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.31.07:008][227]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.31.07:008][227]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.31.12:794][919]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.31.12:794][919]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.31.12:794][919]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.31.12:794][919]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.31.12:794][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-07.31.12:794][919]LogWorld: BeginTearingDown for /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent
+[2019.12.05-07.31.12:795][919]LogWorld: UWorld::CleanupWorld for Charlie_persistent, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-07.31.12:802][919]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.05-07.31.12:802][919]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.31.12:802][919]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.31.12:802][919]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.31.12:802][919]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.31.12:848][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-07.31.12:852][919]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2019.12.05-07.31.12:903][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2019.12.05-07.31.12:915][921]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.12.05-07.31.14:108][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.31.23:147][139]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.12.05-07.31.25:559][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.31.35:730][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.31.41:081][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.31.48:855][202]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.12.05-07.31.53:237][706]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.12.05-07.31.56:225][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.31.57:721][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.31.59:180][398]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.05-07.31.59:205][398]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.31.59:205][398]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.31.59:205][398]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.31.59:205][398]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.31.59:205][398]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.05-07.31.59:205][398]PIE: New page: PIE session: Charlie_persistent (Dec 4, 2019, 3:31:59 PM)
+[2019.12.05-07.31.59:206][398]LogPlayLevel: Creating play world package: /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent
+[2019.12.05-07.31.59:207][398]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001629s)
+[2019.12.05-07.31.59:208][398]LogAIModule: Creating AISystem for world Charlie_persistent
+[2019.12.05-07.31.59:208][398]LogPlayLevel: PIE: World Init took: (0.000904s)
+[2019.12.05-07.31.59:208][398]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent to /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent.Charlie_persistent (0.002640s)
+[2019.12.05-07.31.59:247][398]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2019.12.05-07.31.59:268][398]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.05-07.31.59:279][398]LogInit: FAudioDevice initialized.
+[2019.12.05-07.31.59:289][398]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.05-07.31.59:290][398]LogWorld: Bringing World /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent.Charlie_persistent up for play (max tick rate 0) at 2019.12.04-23.31.59
+[2019.12.05-07.31.59:290][398]LogWorld: Bringing up level for play took: 0.000466
+[2019.12.05-07.31.59:290][398]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2019.12.05-07.31.59:299][398]PIE: Play in editor start time for /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent 0.311
+[2019.12.05-07.31.59:299][398]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.31.59:299][398]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.31.59:299][398]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.31.59:299][398]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.32.05:046][ 87]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.32.05:046][ 87]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.32.05:046][ 87]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.32.05:046][ 87]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.32.05:047][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-07.32.05:047][ 87]LogWorld: BeginTearingDown for /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent
+[2019.12.05-07.32.05:047][ 87]LogWorld: UWorld::CleanupWorld for Charlie_persistent, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-07.32.05:059][ 87]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.05-07.32.05:059][ 87]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.32.05:059][ 87]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.32.05:059][ 87]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.32.05:059][ 87]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.32.05:101][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-07.32.05:105][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2019.12.05-07.32.05:161][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.12.05-07.32.05:172][ 89]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.12.05-07.32.10:427][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.32.12:473][960]LogLevel: WORLD TRANSLATION BEGIN {-36229, 1697653, 0} -> {-40080, 1877923, 0}
+[2019.12.05-07.32.12:473][960]LogLevel: WORLD TRANSLATION END {-40080, 1877923, 0} took 0.1595 ms
+[2019.12.05-07.32.20:478][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.32.29:916][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.32.32:659][267]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.32.32:750][278]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.05-07.32.32:779][278]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.32.32:780][278]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.32.32:780][278]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.32.32:780][278]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.32.32:780][278]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.05-07.32.32:780][278]PIE: New page: PIE session: Charlie_persistent (Dec 4, 2019, 3:32:32 PM)
+[2019.12.05-07.32.32:780][278]LogPlayLevel: Creating play world package: /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent
+[2019.12.05-07.32.32:782][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001674s)
+[2019.12.05-07.32.32:783][278]LogAIModule: Creating AISystem for world Charlie_persistent
+[2019.12.05-07.32.32:783][278]LogPlayLevel: PIE: World Init took: (0.000906s)
+[2019.12.05-07.32.32:783][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent to /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent.Charlie_persistent (0.002687s)
+[2019.12.05-07.32.32:825][278]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2019.12.05-07.32.32:846][278]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.05-07.32.32:858][278]LogInit: FAudioDevice initialized.
+[2019.12.05-07.32.32:869][278]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.05-07.32.32:870][278]LogWorld: Bringing World /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent.Charlie_persistent up for play (max tick rate 0) at 2019.12.04-23.32.32
+[2019.12.05-07.32.32:870][278]LogWorld: Bringing up level for play took: 0.000433
+[2019.12.05-07.32.32:871][278]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2019.12.05-07.32.32:878][278]PIE: Play in editor start time for /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent -0.109
+[2019.12.05-07.32.32:892][278]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.32.32:892][278]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.32.32:892][278]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.32.32:892][278]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.32.42:053][374]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.32.42:053][374]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.32.42:053][374]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.32.42:053][374]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.32.42:054][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-07.32.42:054][374]LogWorld: BeginTearingDown for /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent
+[2019.12.05-07.32.42:054][374]LogWorld: UWorld::CleanupWorld for Charlie_persistent, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-07.32.42:062][374]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.05-07.32.42:062][374]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.32.42:062][374]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.32.42:062][374]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.32.42:062][374]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.32.42:105][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-07.32.42:109][374]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2019.12.05-07.32.42:162][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.12.05-07.32.42:173][376]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.12.05-07.32.43:440][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.32.44:866][695]LogLevel: WORLD TRANSLATION BEGIN {-40080, 1877923, 0} -> {-36229, 1697653, 0}
+[2019.12.05-07.32.44:866][695]LogLevel: WORLD TRANSLATION END {-36229, 1697653, 0} took 0.1550 ms
+[2019.12.05-07.32.53:975][776]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_bp_C (Space_Skybox_bp)
+[2019.12.05-07.32.56:180][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.32.56:288][ 48]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.05-07.32.56:312][ 48]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.32.56:312][ 48]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.32.56:312][ 48]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.32.56:312][ 48]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.32.56:312][ 48]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.05-07.32.56:312][ 48]PIE: New page: PIE session: Charlie_persistent (Dec 4, 2019, 3:32:56 PM)
+[2019.12.05-07.32.56:313][ 48]LogPlayLevel: Creating play world package: /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent
+[2019.12.05-07.32.56:315][ 48]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001694s)
+[2019.12.05-07.32.56:315][ 48]LogAIModule: Creating AISystem for world Charlie_persistent
+[2019.12.05-07.32.56:315][ 48]LogPlayLevel: PIE: World Init took: (0.000869s)
+[2019.12.05-07.32.56:315][ 48]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent to /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent.Charlie_persistent (0.002675s)
+[2019.12.05-07.32.56:356][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.12.05-07.32.56:378][ 48]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.05-07.32.56:390][ 48]LogInit: FAudioDevice initialized.
+[2019.12.05-07.32.56:397][ 48]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.05-07.32.56:398][ 48]LogWorld: Bringing World /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent.Charlie_persistent up for play (max tick rate 0) at 2019.12.04-23.32.56
+[2019.12.05-07.32.56:398][ 48]LogWorld: Bringing up level for play took: 0.000432
+[2019.12.05-07.32.56:398][ 48]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2019.12.05-07.32.56:406][ 48]PIE: Play in editor start time for /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent -0.582
+[2019.12.05-07.32.56:406][ 48]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.32.56:406][ 48]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.32.56:406][ 48]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.32.56:406][ 48]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.33.06:148][213]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.33.06:149][213]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.33.06:149][213]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.33.06:149][213]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.33.06:149][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-07.33.06:149][213]LogWorld: BeginTearingDown for /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent
+[2019.12.05-07.33.06:149][213]LogWorld: UWorld::CleanupWorld for Charlie_persistent, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-07.33.06:155][213]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.05-07.33.06:155][213]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.33.06:155][213]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.33.06:155][213]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.33.06:155][213]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.33.06:202][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-07.33.06:206][213]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2019.12.05-07.33.06:257][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.12.05-07.33.06:267][215]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.12.05-07.33.12:494][961]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.33.19:169][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.33.23:987][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.33.26:432][590]LogLevel: WORLD TRANSLATION BEGIN {-36229, 1697653, 0} -> {0, 0, 0}
+[2019.12.05-07.33.26:436][590]LogLevel: WORLD TRANSLATION END {0, 0, 0} took 4.0601 ms
+[2019.12.05-07.33.37:991][957]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.05-07.33.38:014][957]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.33.38:014][957]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.33.38:014][957]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.33.38:014][957]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.33.38:014][957]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.05-07.33.38:014][957]PIE: New page: PIE session: Charlie_persistent (Dec 4, 2019, 3:33:38 PM)
+[2019.12.05-07.33.38:015][957]LogPlayLevel: Creating play world package: /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent
+[2019.12.05-07.33.38:016][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001614s)
+[2019.12.05-07.33.38:017][957]LogAIModule: Creating AISystem for world Charlie_persistent
+[2019.12.05-07.33.38:017][957]LogPlayLevel: PIE: World Init took: (0.000901s)
+[2019.12.05-07.33.38:017][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent to /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent.Charlie_persistent (0.002622s)
+[2019.12.05-07.33.38:061][957]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2019.12.05-07.33.38:084][957]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.05-07.33.38:096][957]LogInit: FAudioDevice initialized.
+[2019.12.05-07.33.38:101][957]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.05-07.33.38:101][957]LogWorld: Bringing World /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent.Charlie_persistent up for play (max tick rate 0) at 2019.12.04-23.33.38
+[2019.12.05-07.33.38:102][957]LogWorld: Bringing up level for play took: 0.000433
+[2019.12.05-07.33.38:102][957]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2019.12.05-07.33.38:111][957]PIE: Play in editor start time for /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent -0.877
+[2019.12.05-07.33.38:115][957]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.33.38:115][957]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.33.38:115][957]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.33.38:115][957]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.33.38:115][957]LogLevel: WORLD TRANSLATION BEGIN {0, 0, 0} -> {-37465, 1697596, 0}
+[2019.12.05-07.33.38:115][957]LogLevel: WORLD TRANSLATION END {-37465, 1697596, 0} took 0.0782 ms
+[2019.12.05-07.33.42:269][453]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.33.42:269][453]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.33.42:269][453]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.33.42:269][453]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.33.42:270][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-07.33.42:270][453]LogWorld: BeginTearingDown for /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent
+[2019.12.05-07.33.42:270][453]LogWorld: UWorld::CleanupWorld for Charlie_persistent, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-07.33.42:276][453]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.05-07.33.42:276][453]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.33.42:276][453]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.33.42:276][453]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.33.42:276][453]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.33.42:319][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-07.33.42:323][453]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2019.12.05-07.33.42:380][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2019.12.05-07.33.42:392][455]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.12.05-07.33.47:081][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.33.49:790][337]LogLevel: WORLD TRANSLATION BEGIN {0, 0, 0} -> {-40080, 1877923, 0}
+[2019.12.05-07.33.49:794][337]LogLevel: WORLD TRANSLATION END {-40080, 1877923, 0} took 4.4230 ms
+[2019.12.05-07.33.56:301][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.33.57:905][260]Cmd: TRANSACTION UNDO
+[2019.12.05-07.33.57:905][260]LogEditorTransaction: Undo Set Rotation
+[2019.12.05-07.33.59:667][427]Cmd: TRANSACTION UNDO
+[2019.12.05-07.33.59:667][427]LogEditorTransaction: Undo Set Rotation
+[2019.12.05-07.34.11:477][645]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.05-07.34.11:508][645]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.34.11:508][645]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.34.11:508][645]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.34.11:508][645]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.34.11:508][645]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.05-07.34.11:508][645]PIE: New page: PIE session: Charlie_persistent (Dec 4, 2019, 3:34:11 PM)
+[2019.12.05-07.34.11:508][645]LogPlayLevel: Creating play world package: /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent
+[2019.12.05-07.34.11:510][645]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001717s)
+[2019.12.05-07.34.11:511][645]LogAIModule: Creating AISystem for world Charlie_persistent
+[2019.12.05-07.34.11:511][645]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2019.12.05-07.34.11:511][645]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent to /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent.Charlie_persistent (0.002788s)
+[2019.12.05-07.34.11:549][645]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2019.12.05-07.34.11:570][645]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.05-07.34.11:584][645]LogInit: FAudioDevice initialized.
+[2019.12.05-07.34.11:591][645]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.05-07.34.11:592][645]LogWorld: Bringing World /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent.Charlie_persistent up for play (max tick rate 0) at 2019.12.04-23.34.11
+[2019.12.05-07.34.11:592][645]LogWorld: Bringing up level for play took: 0.000436
+[2019.12.05-07.34.11:593][645]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2019.12.05-07.34.11:600][645]PIE: Play in editor start time for /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent 0.613
+[2019.12.05-07.34.11:614][645]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.34.11:614][645]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.34.11:615][645]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.34.11:615][645]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.34.22:720][974]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.34.22:720][974]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.34.22:720][974]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.34.22:720][974]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.34.22:721][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-07.34.22:721][974]LogWorld: BeginTearingDown for /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent
+[2019.12.05-07.34.22:721][974]LogWorld: UWorld::CleanupWorld for Charlie_persistent, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-07.34.22:729][974]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.05-07.34.22:729][974]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.34.22:729][974]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.34.22:729][974]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.34.22:729][974]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.34.22:775][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-07.34.22:778][974]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2019.12.05-07.34.22:836][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2019.12.05-07.34.22:846][976]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.12.05-07.34.24:132][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.34.35:795][368]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.05-07.34.35:819][368]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.34.35:819][368]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.34.35:819][368]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.34.35:819][368]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.34.35:819][368]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.05-07.34.35:819][368]PIE: New page: PIE session: Charlie_persistent (Dec 4, 2019, 3:34:35 PM)
+[2019.12.05-07.34.35:820][368]LogPlayLevel: Creating play world package: /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent
+[2019.12.05-07.34.35:821][368]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001722s)
+[2019.12.05-07.34.35:822][368]LogAIModule: Creating AISystem for world Charlie_persistent
+[2019.12.05-07.34.35:822][368]LogPlayLevel: PIE: World Init took: (0.000902s)
+[2019.12.05-07.34.35:822][368]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent to /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent.Charlie_persistent (0.002737s)
+[2019.12.05-07.34.35:859][368]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.12.05-07.34.35:880][368]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.05-07.34.35:891][368]LogInit: FAudioDevice initialized.
+[2019.12.05-07.34.35:901][368]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.05-07.34.35:902][368]LogWorld: Bringing World /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent.Charlie_persistent up for play (max tick rate 0) at 2019.12.04-23.34.35
+[2019.12.05-07.34.35:902][368]LogWorld: Bringing up level for play took: 0.000430
+[2019.12.05-07.34.35:902][368]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2019.12.05-07.34.35:910][368]PIE: Play in editor start time for /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent 0.922
+[2019.12.05-07.34.35:925][368]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.34.35:925][368]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.34.35:925][368]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.34.35:925][368]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.34.52:093][299]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.34.52:094][299]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.34.52:094][299]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.34.52:094][299]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.34.52:094][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-07.34.52:094][299]LogWorld: BeginTearingDown for /Game/Maps/OpenSpaceMap/UEDPIE_0_Charlie_persistent
+[2019.12.05-07.34.52:095][299]LogWorld: UWorld::CleanupWorld for Charlie_persistent, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-07.34.52:104][299]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.05-07.34.52:104][299]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_persistent.Charlie_persistent:PersistentLevel.Charlie_persistent'
+[2019.12.05-07.34.52:104][299]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star' with GeneratedClass '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Charlie_star.Charlie_star:PersistentLevel.Charlie_star'
+[2019.12.05-07.34.52:104][299]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX' with GeneratedClass '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/PlanetX.PlanetX:PersistentLevel.PlanetX'
+[2019.12.05-07.34.52:104][299]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/OpenSpaceMap/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2019.12.05-07.34.52:147][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-07.34.52:151][299]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2019.12.05-07.34.52:211][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2019.12.05-07.34.52:223][301]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.12.05-07.34.56:042][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-07.35.22:180][695]LogSlate: Window 'World Composition' being destroyed
+[2019.12.05-07.35.22:182][695]LogSlate: Window 'World Composition' being destroyed
+[2019.12.05-07.35.24:997][872]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2019.12.05-07.35.25:234][872]LogSavePackage: Moving 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Saved/Charlie_persistent3918E59947132CB0A204A79BA702F515.tmp' to 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Content/Maps/OpenSpaceMap/Charlie_persistent.umap'
+[2019.12.05-07.35.25:413][872]LogSavePackage: Moving 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Saved/Charlie_persistent_BuiltDataC59D111C48B3926C2B60A49DB81B2FA1.tmp' to 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Content/Maps/OpenSpaceMap/Charlie_persistent_BuiltData.uasset'
+[2019.12.05-07.35.41:235][732]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2019.12.05-07.35.43:757][732]LogSlate: Window 'Save Content' being destroyed
+[2019.12.05-07.35.43:942][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.12.05-07.35.43:961][732]LogSavePackage: Moving 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Saved/Charlie_star285D1F3F4F4A19288034EDBBC6AC7272.tmp' to 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Content/Maps/OpenSpaceMap/Charlie_star.umap'
+[2019.12.05-07.35.43:965][732]LogFileHelpers: Saving map 'Charlie_star' took 0.066
+[2019.12.05-07.35.44:017][732]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2019.12.05-07.35.44:049][732]LogSavePackage: Moving 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Saved/PlanetX27EEE1974CC3ACD77279C39B3BF7D2BD.tmp' to 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Content/Maps/OpenSpaceMap/PlanetX.umap'
+[2019.12.05-07.35.44:054][732]LogFileHelpers: Saving map 'PlanetX' took 0.086
+[2019.12.05-07.35.44:105][732]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2019.12.05-07.35.44:127][732]LogSavePackage: Moving 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Saved/Spaceship599342AD4E99B91F3CB6A6B6A56D4A04.tmp' to 'C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Content/Maps/OpenSpaceMap/Spaceship.umap'
+[2019.12.05-07.35.44:131][732]LogFileHelpers: Saving map 'Spaceship' took 0.075
+[2019.12.05-07.35.44:137][732]Cmd: MAP LOAD FILE="C:/Users/Bradley/Documents/Unreal Projects/cst438-unreal-space-game/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.05-07.35.44:146][732]LightingResults: New page: Lighting Build
+[2019.12.05-07.35.44:147][732]LoadErrors: New page: Loading map: MainMenu.umap
+[2019.12.05-07.35.44:148][732]LogWorld: UWorld::CleanupWorld for Charlie_persistent, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-07.35.44:148][732]LogWorld: UWorld::CleanupWorld for Charlie_star, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-07.35.44:148][732]LogWorld: UWorld::CleanupWorld for PlanetX, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-07.35.44:148][732]LogWorld: UWorld::CleanupWorld for Spaceship, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-07.35.44:150][732]MapCheck: New page: Map Check
+[2019.12.05-07.35.44:150][732]LightingResults: New page: Lighting Build
+[2019.12.05-07.35.44:186][732]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2019.12.05-07.35.44:197][732]LogAIModule: Creating AISystem for world MainMenu
+[2019.12.05-07.35.44:293][732]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.05-07.35.44:340][732]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2019.12.05-07.35.44:376][732]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.05-07.35.44:376][732]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.13ms to complete.
+[2019.12.05-07.35.44:377][732]LogFileHelpers: Loading map 'MainMenu' took 0.241
+[2019.12.05-07.35.44:377][732]LogSlate: Window 'Open Level' being destroyed
+[2019.12.05-07.35.44:407][732]LogAIModule: Creating AISystem for world PlanetX
+[2019.12.05-07.35.44:451][732]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2019.12.05-07.35.45:948][891]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.05-07.35.45:974][891]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.12.05-07.35.45:974][891]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.05-07.35.45:974][891]PIE: New page: PIE session: MainMenu (Dec 4, 2019, 3:35:45 PM)
+[2019.12.05-07.35.45:975][891]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2019.12.05-07.35.45:976][891]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000961s)
+[2019.12.05-07.35.45:977][891]LogAIModule: Creating AISystem for world MainMenu
+[2019.12.05-07.35.45:977][891]LogPlayLevel: PIE: World Init took: (0.000887s)
+[2019.12.05-07.35.45:977][891]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.002032s)
+[2019.12.05-07.35.46:019][891]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2019.12.05-07.35.46:044][891]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.05-07.35.46:058][891]LogInit: FAudioDevice initialized.
+[2019.12.05-07.35.46:066][891]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.05-07.35.46:067][891]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.12.04-23.35.46
+[2019.12.05-07.35.46:067][891]LogWorld: Bringing up level for play took: 0.000312
+[2019.12.05-07.35.46:067][891]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2019.12.05-07.35.46:124][891]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 1.136
+[2019.12.05-07.35.46:124][891]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.12.05-07.35.47:856][ 97]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.12.05-07.35.47:857][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-07.35.47:857][ 97]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2019.12.05-07.35.47:857][ 97]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-07.35.47:867][ 97]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.05-07.35.47:867][ 97]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.12.05-07.35.47:909][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-07.35.47:913][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.12.05-07.35.47:961][102]LogPlayLevel: Display: Destroying online subsystem :Context_25
